@@ -1,3 +1,16 @@
+[Adblock Plus 2.0]
+! Checksum: RandomGeneratedChecksumHere
+! Version: 202409172331
+! Title: Custom Apple Domains Blocklist
+! Last modified: 17 Sep 2024 23:31 UTC
+! Expires: 1 days (update frequency)
+! Homepage: https://easylist.to/
+!
+! *** Custom Apple-related blocklist ***
+! Please report any unblocked domains or issues in the forums (https://forums.lanik.us/)
+!
+
+!----------------------Apple Services and Domains Blocking----------------------!
 ||cstat.g.aaplimg.com^
 ||diagassets.g.aaplimg.com^
 ||cdn-xp-ingest-ab.v.aaplimg.com^
